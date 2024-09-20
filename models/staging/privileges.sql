@@ -1,0 +1,1 @@
+{{ create_staging_model('northwind','privileges')}}

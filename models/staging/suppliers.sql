@@ -1,1 +1,0 @@
-{{ create_staging_model('northwind','suppliers')}}

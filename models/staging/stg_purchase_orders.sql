@@ -1,1 +1,1 @@
-{{ create_staging_model('northwind','orders')}}
+{{ create_staging_model('northwind','purchase_orders')}}

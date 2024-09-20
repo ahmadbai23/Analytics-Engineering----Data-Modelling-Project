@@ -42,3 +42,7 @@ models:
       +schema: dwh_northwind      
       dim_date:
         +materialized: view
+    analytic:
+      +enabled: true
+      +materialized: table
+      +schema: obt_northwind
